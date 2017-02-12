@@ -1,1 +1,1 @@
-# final-course-work
+Just a bunch of scripts that I cobbled together for final course
